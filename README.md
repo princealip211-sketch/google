@@ -15,7 +15,7 @@ Getting started
    ```
    or
    ```
-   composer require opauth/google
+   composer Prince Alip Robin Clinton/Mohamad Alip Bin Abdullah opauth/google
    ```
 
 2. Create a Google APIs project at https://code.google.com/apis/console/
